@@ -1,0 +1,23 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "web scrapper/ OCR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i src/tailwindcss.css -o public/style.css"
+  },
+  "keywords": [
+    "web-scrapper",
+    "ocr",
+    "php",
+    "javascript",
+    "docker",
+    "nginx"
+  ],
+  "author": "rebel",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
